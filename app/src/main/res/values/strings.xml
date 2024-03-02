@@ -1,0 +1,48 @@
+<resources>
+    
+    <string-array name="items_names">
+        <item>Bamba</item>
+        <item>Bamba Bisli</item>
+        <item>Chips</item>
+        <item>Kinder</item>
+        <item>Milka</item>
+        <item>Klik</item>
+        <item>TimTam</item>
+        <item>Rice</item>
+        <item>Penne</item>
+        <item>Ravioli</item>
+        <item>Eggs</item>
+        <item>Pesto</item>
+        <item>Nutella</item>
+        <item>Milk</item>
+        <item>Shoko</item>
+        <item>Coca-Cola</item>
+        <item>Big Coca-Cola</item>
+        <item>Coca-Cola Zero</item>
+        <item>Big Coca-Cola Zero</item>
+        <item>Grape Juice</item>
+        <item>Water</item>
+        <item>Tea</item>
+        <item>Tasters Choice</item>
+        <item>Black Coffee</item>
+    </string-array>
+
+    <string name="app_name">ShoppingStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name_text">User Name:</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="password_text">Password:</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="phone_number_text">Phone Number:</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="login">Login</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="full_name">Full Name:</string>
+    <string name="register">Register</string>
+    <string name="welcome_to_our_shop_message">Welcome To Our Shop!</string>
+    <string name="home_page">home page</string>
+    <string name="logout">Logout</string>
+    <string name="to_register">To Register</string>
+    <string name="to_login">To Login</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="off_white">#F9F5E7</color>
+    <color name="dark_off_white">#EDDBC7</color>
+    <color name="eggplant_pastel">#A7727D</color>
+    <color name="eggplant">#85586F</color>
+    <color name="dark_blue">#265073</color>
+    <color name="pink_pastel">#EAC7C7</color>
+    <color name="blue_pastel">#A0C3D2</color>
+    <color name="blue">#8CC0DE</color>
+    <color name="light_blue">#9ADCFF</color>
+
+
+</resources>

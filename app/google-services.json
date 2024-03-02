@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581844503120",
+    "project_id": "shop-store-lusil",
+    "storage_bucket": "shop-store-lusil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581844503120:android:c27531f5d03d9ef0421f55",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADSDnyWudYRpSvKQcpW7ux6bcpsKO1zL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581844503120:android:9d6d68065f3e7e65421f55",
+        "android_client_info": {
+          "package_name": "com.example.shoppingstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADSDnyWudYRpSvKQcpW7ux6bcpsKO1zL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
